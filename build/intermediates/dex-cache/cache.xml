@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/blue/AndroidStudioProjects/3DViewPagerGallery/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8cc79bc5fdd7d77fa235728d9380f8454ae0209f">
+        <dex dex="/Users/blue/AndroidStudioProjects/3DViewPagerGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_684445558571876a7952fb6f5e1240f0bb9ca4f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/blue/AndroidStudioProjects/3DViewPagerGallery/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/blue/AndroidStudioProjects/3DViewPagerGallery/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_45cd68191036b80802d6ab9f014f273b631fc4a0/classes.dex" />
+    </item>
+
+</items>
